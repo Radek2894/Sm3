@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="hello_blank_fragment">Empty</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_name_hint">Podaj nazwę zadania:</string>
+    <string name="task_details"> O zadaniu:</string>
+    <string name="task_done"> Zadanie wykonane</string>
+    <string name="title_activity_task_list">Zadania</string>
+</resources>
